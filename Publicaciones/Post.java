@@ -39,7 +39,7 @@ public class Post extends Publicacion implements Comentable, Reportable {
 	}
 	
 	public void texto() {
-		System.out.println("hola, esto es un post muy interesante");
+		System.out.println("hola, esto es un post que no me interesa");
 	}
 	public void reportar() {
 		

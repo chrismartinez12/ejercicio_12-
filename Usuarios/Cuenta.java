@@ -42,7 +42,7 @@ public class Cuenta extends Usuario implements Comentable, Reportable{
  }
  
  public void texto() {
-	System.out.println("cuenta nueva creada por el usuario");
+	System.out.println("cuenta usada para estafar");
  }
  
  public void reportar() {

@@ -63,7 +63,7 @@ public class Pagina extends Usuario implements Comentable, Reportable{
 	}
 
 	public void texto() {
-		System.out.println("pagina increible creada para publicar cosas y otras cositas");
+		System.out.println("pagina explicita que no me deja dormir");
 		
 	}
 	public void reportar() {	

@@ -30,7 +30,7 @@ public class Story extends Publicacion implements Reportable{
     
     // aca van los metodos de Reportable
 	public void motivo() {
-		System.out.println("motivo: compartir socialmente");
+		System.out.println("no me interesa esta story");
 		
 		
 	}
